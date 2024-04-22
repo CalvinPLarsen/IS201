@@ -1,0 +1,65 @@
+/* Paragraph style */
+p {
+    font-weight: bold;
+    font-size: 20px;
+    color: #333; /* Font color */
+    font-family: Arial, sans-serif; /* Font family */
+}
+
+/* Style for element with id "top" */
+#top {
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif; /* Font family */
+    color: #ff0000; /* Font color */
+}
+
+/* Style for elements with class "emphasizedText" */
+.emphasizedText {
+    font-style: italic;
+    color: cadetblue;
+}
+
+/* Body style */
+body {
+    background-color: lightslategray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+/* Style for div with class "box1" */
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: #f0f0f0;
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Style for div with class "box2" */
+.box2 {
+    width: 300px;
+    height: 150px;
+    background-color: #ccc;
+    border: 1px solid #999;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+/* Style for div with class "box3" */
+.box3 {
+    width: 250px;
+    height: 250px;
+    background-color: #e5e5e5;
+    border: 1px solid #666;
+    border-radius: 15px;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+  
